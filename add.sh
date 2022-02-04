@@ -1,4 +1,4 @@
-!/bin/bash 
+!/bin/bash/ -X
 
 x=100
 y=30
